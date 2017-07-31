@@ -51,7 +51,7 @@ public class FastFood{
 
     /** Creates a new order and puts it on the queue to be processed */
     public void generateOrder() {
-        /*# YOUR CODE HERE */
+        UI.println("hi!");
         
     }
 
